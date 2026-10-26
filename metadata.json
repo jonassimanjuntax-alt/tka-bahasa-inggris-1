@@ -1,0 +1,6 @@
+{
+  "name": "TKA English Mastery 2026",
+  "description": "Aplikasi Interaktif Latihan TKA Bahasa Inggris Wajib 2026 SMA/MA/SMK/MAK bersama Mam Amelia Aritonang, S.Pd. dengan 25 HOTS reading questions, visual stimuli, Web Speech TTS, dan 7-step structured explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
